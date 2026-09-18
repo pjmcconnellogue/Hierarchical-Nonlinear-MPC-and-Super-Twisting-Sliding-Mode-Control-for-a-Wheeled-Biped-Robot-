@@ -1,4 +1,4 @@
-# Robust Wheeled Bipedal Locomotion
+# Hierarchical Nonlinear MPC and Super-Twisting Sliding Mode Control for a Wheeled Biped Robot Under Uncertainties
 
 Hierarchical NMPC with a Super-Twisting Sliding Mode fast layer and Whole Body Control for a wheeled bipedal robot (LimX TRON-1A), with a unified Monte Carlo robustness campaign runner.
 
